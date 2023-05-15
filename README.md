@@ -86,4 +86,5 @@
      git push origin KO (checkout 했을때이름쓰기 이것도 "따옴표 없이)
      
      ![image](https://github.com/1004minjeong/github_connect/assets/129016976/2362742d-1d72-40da-8f90-f0fe56688b3c)
+     정상처리되면 compare & pull request
 
