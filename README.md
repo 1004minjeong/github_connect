@@ -62,3 +62,28 @@
 2. 다시 push 해야한다.
  
           git push origin master
+          
+    
+    
+    
+    ---------------------------------------------------
+    # Github 협업하는방법
+    
+    # 사원입장--------------------------------
+    1. 소스코드 다운로드
+    git clone 주소 (code 누르고 Https주소복사)
+    git clone https://github.com/1004minjeong/HANACARD.git
+    
+    2. 브랜치(branch)만들기(checkout에 "따옴표 안써도되용)
+    git checkout -b(브랜치이름)
+    git checkout -b KO
+     
+     git add.
+     
+     git commit -m "하나카드"
+     
+     git push origin 브랜치
+     git push origin KO (checkout 했을때이름쓰기 이것도 "따옴표 없이)
+     
+     ![image](https://github.com/1004minjeong/github_connect/assets/129016976/2362742d-1d72-40da-8f90-f0fe56688b3c)
+
