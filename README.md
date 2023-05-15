@@ -87,4 +87,8 @@
      
      ![image](https://github.com/1004minjeong/github_connect/assets/129016976/2362742d-1d72-40da-8f90-f0fe56688b3c)
      정상처리되면 compare & pull request
+     
+     ![image](https://github.com/1004minjeong/github_connect/assets/129016976/378f9eac-91ff-4ef1-8def-0980651dc2d5)
+     내용쓰고 compare & pull request버튼누르기
+
 
